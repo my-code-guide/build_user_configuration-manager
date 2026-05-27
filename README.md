@@ -1,6 +1,6 @@
 # Build User Configuration Manager
 
-This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the tutorial.
+This project is part of a YouTube [tutorial](https://youtu.be/aFlSFdCqe0A) on the My Code Guide channel link to the chanel and link to the tutorial.
 
 It walks through the freeCodeCamp (FCC) Python curriculum and shows how to build User Configuration Manager step-by-step, including full input validation and stat visualization.
 
